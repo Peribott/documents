@@ -29,9 +29,9 @@ This document provides a comprehensive technical reference for the core data str
 └─────────────────┘    └──────────────────┘    └─────────────────┘
          │                        ▲                       │
          │              ┌─────────┴─────────┐             │
-         └──────────────▶│   Odometry       │◀────────────┘
-                        │   (/odom)        │
-                        │   (/tf)          │
+         └─────────────▶│   Odometry        │◀────────────┘
+                        │   (/odom)         │
+                        │   (/tf)           │
                         └───────────────────┘
 ```
 
